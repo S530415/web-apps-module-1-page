@@ -6,33 +6,40 @@ A sport that is sometimes left underrated, Tennis is a game of skill and athleti
 
 ### Top Men's Singles Players
 
-- Roger Federer
-
 ![Roger Federer](https://www.tennisworldusa.org/imgb/87926/roger-federer-my-expectations-are-quite-low-ahead-of-johnson-clash-.jpg)
 Credit to TennisWorldUSA.org
+
+- Roger Federer
 
 - Rafael Nadal
 
 -	Novak Djokovic
 
-### Top Women's Singles Players
+To see the Actual rankings of Men's Tennis click [here](https://www.atptour.com/en/rankings/singles)
 
-- Serena Williams
+### Top Women's Singles Players
 
 ![Serena Williamws](https://cdn.britannica.com/70/149370-050-F2F4BEE5/Serena-Williams-US-Open-2004.jpg)
 Credit to Britannica.com
+
+- Serena Williams
 
 - Maria Sharipova
 
 - Caroline Wozniaki
 
-## The Best Doubles Teams of All Time
+To see the Actual rankings of Women's Tennis click [here](https://www.wtatennis.com/rankings/singles)
 
-1. The Bryan Brothers
+## The Best Doubles Teams of All Time
 
 ![Bryan Brothers](https://static01.nyt.com/images/2019/11/13/sports/13tennisweb1/13tennisweb1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 Credit to nyt.com
 
+1. The Bryan Brothers
+
 1. John McEnroe and Peter Fleming
 
 1. Leander Paes and Mahesh Bhupathi
+
+To see the Actual rankings of current Male Double's Tennis click [here](https://www.atptour.com/en/rankings/doubles)
+Or to see the Actual rankings of current Female Double's Tennis click [here](https://www.wtatennis.com/rankings/doubles)
