@@ -19,7 +19,7 @@ To see the Actual rankings of Men's Tennis click [here](https://www.atptour.com/
 
 ### Top Women's Singles Players
 
-![Serena Williamws](https://cdn.britannica.com/70/149370-050-F2F4BEE5/Serena-Williams-US-Open-2004.jpg)
+![Serena Williamws](https://cdn.britannica.com/70/149370-050-F2F4BEE5/Serena-Williams-US-Open-2004.jpg)<br><br/>
 Credit to Britannica.com
 
 - Serena Williams
@@ -32,7 +32,7 @@ To see the Actual rankings of Women's Tennis click [here](https://www.wtatennis.
 
 ## The Best Doubles Teams of All Time
 
-![Bryan Brothers](https://static01.nyt.com/images/2019/11/13/sports/13tennisweb1/13tennisweb1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![Bryan Brothers](https://static01.nyt.com/images/2019/11/13/sports/13tennisweb1/13tennisweb1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)<br><br/>
 Credit to nyt.com
 
 1. The Bryan Brothers
